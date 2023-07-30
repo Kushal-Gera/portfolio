@@ -324,6 +324,7 @@ img {
 
 .home__blob-img {
   width: 200px;
+  filter: grayscale(100%);
 }
 
 .home__data {
